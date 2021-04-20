@@ -1,7 +1,7 @@
 https://github.com/dave547/master-gatsby
 
-Getting Data into Gatsby with GraphQL
-https://courses.wesbos.com/account/access/6067e42075ff3a25a5c43a25/view/455637135
+gatsby images
+https://courses.wesbos.com/account/access/6067e42075ff3a25a5c43a25/view/455649279
 
 
 css
