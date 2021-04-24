@@ -4,9 +4,10 @@ import PizzaList from '../components/PizzaList';
 
 export default function PizzasPage({ data }) {
   const pizzas = data.pizzas.nodes;
+  // console.log(data);
   return (
     <>
-      <PizzaList pizzas={pizzas} />
+      <PizzaList pizza={pizzas} />
     </>
   );
 }
